@@ -1,0 +1,42 @@
+
+body{
+    font-family: sans-serif;
+    background: #72A0C1;
+}
+
+#slider{
+    width: 1050px;
+    height: 700px;
+    overflow: hidden;
+}
+
+#slider .slides{
+    display: block;
+    width: 10000px;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide{
+    float: left;
+    list-style-type: none;
+    width: 1050px;
+    height: 700px;
+}
+
+.slide1{background: url(./Images/Rino.jpeg)no-repeat center;}
+.slide2{background: url(./Images/Keystone.jpeg)no-repeat center;}
+.slide3{background: url(./Images/Traffic.jpeg)no-repeat center;}
+.slide4{background: url(./Images/Plane.jpeg)no-repeat center;}
+.slide5{background: url(./Images/Chicago.jpeg)no-repeat center;}
+.slide6{background: url(./Images/New\ York.jpeg)no-repeat center;}
+.slide7{background: url(./Images/Seattle.jpeg)no-repeat center;}
+.slide8{background: url(./Images/Thailand.jpeg)no-repeat center;}
+
+
+
+
+
+
+
